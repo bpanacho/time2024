@@ -33,7 +33,7 @@ A execução completa do projeto é opcional. Caso deseje realizá-la, siga algu
 + Execute todas as etapas do arquivo Jupyter Notebook, localizado na pasta **códigos do projeto**. Há um notebook específico para cada modalidade de esporte, facilitando a execução individual por esporte.
    
 **Teste de Precisão**
-+ Se preferir, você pode realizar apenas o teste de precisão dos modelos. Para isso, disponibilizamos os arquivos `best.pt` no drive, Pasta - [Hackathon](https://drive.google.com/drive/folders/1ot3yJXcx7wLfLhZ0Y03kuhl6a3TPY7aL?usp=sharing) treinados para teste de inferência, ao final de cada jupyter notebook há um código de inferência que permite operar sobre vídeos ou imagens.
++ Se preferir, você pode realizar apenas o teste de precisão dos modelos. Para isso, disponibilizamos os arquivos `best.pt` no drive, Pasta - [Hackathon](https://drive.google.com/drive/folders/1ot3yJXcx7wLfLhZ0Y03kuhl6a3TPY7aL?usp=sharing) treinados para teste de inferência, e ao final de cada jupyter notebook há um código de inferência que permite operar sobre vídeos ou imagens.
 <br>
 
 ## Tecnologias Utilizadas
@@ -61,11 +61,17 @@ git clone https://github.com/bpanacho/team2024.git
 cd "./team2024"
 ```
 
-## 2. Ativação do Ambiente Virtual
+## 2. Criação do ambiente virtual: 
+<br>
+No terminal, dentro da pasta raiz do projeto, execute o comando abaixo para criar o ambiente virtual chamado `env`:
+
+```
+python -m venv env
+```
+
+## 3. Ativação do Ambiente Virtual
 
 Para garantir o isolamento das dependências e facilitar o controle de versões, é recomendável utilizar um ambiente virtual específico para o projeto.
-
-**Passo 1: Ativar o Ambiente Virtual**
 
 Ative o ambiente virtual de acordo com o seu sistema operacional:
 
@@ -83,21 +89,17 @@ source env/bin/activate
 
 <br>
 
-## Personalização do Ambiente Virtual
-
-**Passo 1: Crie o ambiente virtual**: 
-<br>
-No terminal, dentro da pasta raiz do projeto, execute o comando abaixo para criar o ambiente virtual chamado `env`:
-
-```
-python -m venv env
-```
-
-**Passo 2: Instalar as Dependências:**
+## 4. Instale as Dependências:
 Com o ambiente virtual ativo, instale a biblioteca principal para execução do YOLO:
 ```
-pip install pip install ultralytics
+pip install ultralytics
 ```
+Instale a biblioteca do OpenCV: 
+```
+pip install opencv-python
+```
+
+*Todas as outras bibliotecas já estão inclusas no pacote Ultralytics*
 
 **Para desativar o ambiente virtual, use o comando:**
 ```
