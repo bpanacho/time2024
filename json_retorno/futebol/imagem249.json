@@ -1,0 +1,69 @@
+{
+    "2dPlayerTracking": {
+        "people": [
+            {
+                "left": 444,
+                "top": 239,
+                "right": 481,
+                "bottom": 304,
+                "team": "Time 1"
+            },
+            {
+                "left": 1052,
+                "top": 143,
+                "right": 1075,
+                "bottom": 187,
+                "team": "Time 1"
+            },
+            {
+                "left": 1141,
+                "top": 183,
+                "right": 1162,
+                "bottom": 237,
+                "team": "Time 1"
+            },
+            {
+                "left": 780,
+                "top": 192,
+                "right": 802,
+                "bottom": 249,
+                "team": "Time 1"
+            },
+            {
+                "left": 666,
+                "top": 278,
+                "right": 695,
+                "bottom": 350,
+                "team": "Time 1"
+            },
+            {
+                "left": 959,
+                "top": 216,
+                "right": 988,
+                "bottom": 279,
+                "team": "Time 0"
+            },
+            {
+                "left": 1187,
+                "top": 176,
+                "right": 1213,
+                "bottom": 231,
+                "team": "Time 0"
+            },
+            {
+                "left": 298,
+                "top": 353,
+                "right": 342,
+                "bottom": 432,
+                "team": "Time 1"
+            },
+            {
+                "left": 848,
+                "top": 123,
+                "right": 867,
+                "bottom": 158,
+                "team": "Time 1"
+            }
+        ]
+    }
+}

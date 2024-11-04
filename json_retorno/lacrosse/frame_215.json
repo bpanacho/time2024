@@ -1,0 +1,86 @@
+{
+    "frame_index": 215,
+    "viewport_width": 1920,
+    "viewport_height": 1080,
+    "2dPlayerTracking": {
+        "people": [
+            {
+                "left": 1072,
+                "top": 209,
+                "right": 1105,
+                "bottom": 266,
+                "team": "Time 1"
+            },
+            {
+                "left": 1449,
+                "top": 227,
+                "right": 1483,
+                "bottom": 301,
+                "team": "Time 1"
+            },
+            {
+                "left": 1328,
+                "top": 270,
+                "right": 1355,
+                "bottom": 355,
+                "team": "Time 1"
+            },
+            {
+                "left": 510,
+                "top": 255,
+                "right": 531,
+                "bottom": 307,
+                "team": "Time 1"
+            },
+            {
+                "left": 356,
+                "top": 227,
+                "right": 385,
+                "bottom": 299,
+                "team": "Time 1"
+            },
+            {
+                "left": 1544,
+                "top": 229,
+                "right": 1582,
+                "bottom": 315,
+                "team": "Time 1"
+            },
+            {
+                "left": 1445,
+                "top": 324,
+                "right": 1476,
+                "bottom": 407,
+                "team": "Time 0"
+            },
+            {
+                "left": 1138,
+                "top": 218,
+                "right": 1163,
+                "bottom": 286,
+                "team": "Time 1"
+            },
+            {
+                "left": 1401,
+                "top": 363,
+                "right": 1429,
+                "bottom": 417,
+                "team": "Time 1"
+            },
+            {
+                "left": 2,
+                "top": 156,
+                "right": 18,
+                "bottom": 205,
+                "team": "Time 0"
+            },
+            {
+                "left": 1071,
+                "top": 200,
+                "right": 1091,
+                "bottom": 238,
+                "team": "Time 1"
+            }
+        ]
+    }
+}

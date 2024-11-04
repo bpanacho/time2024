@@ -1,0 +1,23 @@
+{
+    "frame_index": 359,
+    "viewport_width": 1920,
+    "viewport_height": 1080,
+    "2dPlayerTracking": {
+        "people": [
+            {
+                "left": 1260,
+                "top": 660,
+                "right": 1440,
+                "bottom": 921,
+                "team": "Time 0"
+            },
+            {
+                "left": 614,
+                "top": 130,
+                "right": 718,
+                "bottom": 351,
+                "team": "Time 0"
+            }
+        ]
+    }
+}

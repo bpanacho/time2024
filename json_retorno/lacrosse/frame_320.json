@@ -1,0 +1,79 @@
+{
+    "frame_index": 320,
+    "viewport_width": 1920,
+    "viewport_height": 1080,
+    "2dPlayerTracking": {
+        "people": [
+            {
+                "left": 1273,
+                "top": 336,
+                "right": 1315,
+                "bottom": 427,
+                "team": "Time 0"
+            },
+            {
+                "left": 267,
+                "top": 282,
+                "right": 330,
+                "bottom": 373,
+                "team": "Time 1"
+            },
+            {
+                "left": 1447,
+                "top": 231,
+                "right": 1483,
+                "bottom": 301,
+                "team": "Time 1"
+            },
+            {
+                "left": 1193,
+                "top": 293,
+                "right": 1234,
+                "bottom": 368,
+                "team": "Time 1"
+            },
+            {
+                "left": 1546,
+                "top": 237,
+                "right": 1576,
+                "bottom": 313,
+                "team": "Time 1"
+            },
+            {
+                "left": 915,
+                "top": 191,
+                "right": 936,
+                "bottom": 232,
+                "team": "Time 0"
+            },
+            {
+                "left": 991,
+                "top": 226,
+                "right": 1022,
+                "bottom": 280,
+                "team": "Time 1"
+            },
+            {
+                "left": 922,
+                "top": 214,
+                "right": 945,
+                "bottom": 250,
+                "team": "Time 0"
+            },
+            {
+                "left": 25,
+                "top": 157,
+                "right": 50,
+                "bottom": 206,
+                "team": "Time 0"
+            },
+            {
+                "left": 987,
+                "top": 216,
+                "right": 1012,
+                "bottom": 263,
+                "team": "Time 1"
+            }
+        ]
+    }
+}

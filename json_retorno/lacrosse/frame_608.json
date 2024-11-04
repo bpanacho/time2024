@@ -1,0 +1,79 @@
+{
+    "frame_index": 608,
+    "viewport_width": 1920,
+    "viewport_height": 1080,
+    "2dPlayerTracking": {
+        "people": [
+            {
+                "left": 1482,
+                "top": 226,
+                "right": 1517,
+                "bottom": 302,
+                "team": "Time 1"
+            },
+            {
+                "left": 396,
+                "top": 238,
+                "right": 427,
+                "bottom": 305,
+                "team": "Time 1"
+            },
+            {
+                "left": 998,
+                "top": 380,
+                "right": 1047,
+                "bottom": 476,
+                "team": "Time 0"
+            },
+            {
+                "left": 273,
+                "top": 270,
+                "right": 306,
+                "bottom": 336,
+                "team": "Time 1"
+            },
+            {
+                "left": 1416,
+                "top": 226,
+                "right": 1444,
+                "bottom": 291,
+                "team": "Time 1"
+            },
+            {
+                "left": 1546,
+                "top": 241,
+                "right": 1577,
+                "bottom": 314,
+                "team": "Time 1"
+            },
+            {
+                "left": 266,
+                "top": 238,
+                "right": 293,
+                "bottom": 281,
+                "team": "Time 1"
+            },
+            {
+                "left": 161,
+                "top": 304,
+                "right": 204,
+                "bottom": 404,
+                "team": "Time 0"
+            },
+            {
+                "left": 916,
+                "top": 312,
+                "right": 950,
+                "bottom": 411,
+                "team": "Time 1"
+            },
+            {
+                "left": 134,
+                "top": 179,
+                "right": 168,
+                "bottom": 215,
+                "team": "Time 0"
+            }
+        ]
+    }
+}

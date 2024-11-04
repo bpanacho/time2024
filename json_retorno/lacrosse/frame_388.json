@@ -1,0 +1,72 @@
+{
+    "frame_index": 388,
+    "viewport_width": 1920,
+    "viewport_height": 1080,
+    "2dPlayerTracking": {
+        "people": [
+            {
+                "left": 1228,
+                "top": 349,
+                "right": 1269,
+                "bottom": 443,
+                "team": "Time 0"
+            },
+            {
+                "left": 1440,
+                "top": 232,
+                "right": 1485,
+                "bottom": 297,
+                "team": "Time 1"
+            },
+            {
+                "left": 1087,
+                "top": 300,
+                "right": 1120,
+                "bottom": 387,
+                "team": "Time 1"
+            },
+            {
+                "left": 827,
+                "top": 205,
+                "right": 848,
+                "bottom": 240,
+                "team": "Time 1"
+            },
+            {
+                "left": 806,
+                "top": 186,
+                "right": 828,
+                "bottom": 229,
+                "team": "Time 0"
+            },
+            {
+                "left": 1546,
+                "top": 240,
+                "right": 1577,
+                "bottom": 314,
+                "team": "Time 1"
+            },
+            {
+                "left": 451,
+                "top": 255,
+                "right": 473,
+                "bottom": 305,
+                "team": "Time 1"
+            },
+            {
+                "left": 38,
+                "top": 325,
+                "right": 83,
+                "bottom": 417,
+                "team": "Time 1"
+            },
+            {
+                "left": 830,
+                "top": 220,
+                "right": 849,
+                "bottom": 255,
+                "team": "Time 1"
+            }
+        ]
+    }
+}

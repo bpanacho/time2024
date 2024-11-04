@@ -1,0 +1,79 @@
+{
+    "frame_index": 229,
+    "viewport_width": 1920,
+    "viewport_height": 1080,
+    "2dPlayerTracking": {
+        "people": [
+            {
+                "left": 1310,
+                "top": 269,
+                "right": 1354,
+                "bottom": 359,
+                "team": "Time 1"
+            },
+            {
+                "left": 1449,
+                "top": 225,
+                "right": 1483,
+                "bottom": 301,
+                "team": "Time 1"
+            },
+            {
+                "left": 351,
+                "top": 232,
+                "right": 378,
+                "bottom": 310,
+                "team": "Time 1"
+            },
+            {
+                "left": 1119,
+                "top": 228,
+                "right": 1145,
+                "bottom": 287,
+                "team": "Time 1"
+            },
+            {
+                "left": 1545,
+                "top": 236,
+                "right": 1577,
+                "bottom": 312,
+                "team": "Time 1"
+            },
+            {
+                "left": 1058,
+                "top": 215,
+                "right": 1086,
+                "bottom": 264,
+                "team": "Time 1"
+            },
+            {
+                "left": 513,
+                "top": 256,
+                "right": 537,
+                "bottom": 305,
+                "team": "Time 1"
+            },
+            {
+                "left": 1054,
+                "top": 200,
+                "right": 1075,
+                "bottom": 238,
+                "team": "Time 1"
+            },
+            {
+                "left": 1422,
+                "top": 316,
+                "right": 1467,
+                "bottom": 414,
+                "team": "Time 1"
+            },
+            {
+                "left": 1414,
+                "top": 361,
+                "right": 1447,
+                "bottom": 422,
+                "team": "Time 1"
+            }
+        ]
+    }
+}
