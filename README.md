@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# Hackathon Object Detection 2024 
+# Hackathon 2024 
 </div>
 
 # Visão Geral
