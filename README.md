@@ -33,7 +33,7 @@ A execução completa do projeto é opcional. Caso deseje realizá-la, siga algu
 + Execute todas as etapas do arquivo Jupyter Notebook, localizado na pasta **códigos do projeto**. Há um notebook específico para cada modalidade de esporte, facilitando a execução individual por esporte.
    
 **Teste de Precisão**
-+ Se preferir, você pode realizar apenas o teste de precisão dos modelos. Para isso, disponibilizamos os arquivos `best.pt` treinados para cada esporte e um código de inferência que permite operar sobre vídeos ou imagens.
++ Se preferir, você pode realizar apenas o teste de precisão dos modelos. Para isso, disponibilizamos os arquivos `best.pt` no drive, Pasta - [Hackathon](https://drive.google.com/drive/folders/1ot3yJXcx7wLfLhZ0Y03kuhl6a3TPY7aL?usp=sharing) treinados para teste de inferência, ao final de cada jupyter notebook há um código de inferência que permite operar sobre vídeos ou imagens.
 <br>
 
 ## Tecnologias Utilizadas
