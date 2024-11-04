@@ -22,7 +22,7 @@ Este projeto desenvolve um modelo para classificar jogadores em vídeos esportiv
 
 ## Arquivos Classificados
 
-+ Os arquivos JSON classificados estão localizados na pasta **json_retorno**, organizados em subpastas para cada modalidade de esporte: *boxe*, *futebol* e *lacrosse*. Cada subpasta contém as labels correspondentes. Por questão de espaço, fizemos o upload de uma amostra parcial com 800 arquivos JSON para cada esporte, em vez de toda a quantidade disponível.
++ Os arquivos JSON classificados estão localizados na pasta **json_retorno**, organizados em subpastas para cada modalidade de esporte: *boxe*, *futebol* e *lacrosse*. Cada subpasta contém as labels correspondentes. Por questão de espaço, fizemos o upload de amostras parciais com arquivos JSON para cada esporte, em vez de toda a quantidade disponível.
 <br>
 
 ## Execução do Projeto
@@ -59,7 +59,6 @@ Clone o repositório e instale as dependências:
 ```
 git clone https://github.com/bpanacho/team2024.git
 cd "./team2024"
-pip install -r requirements.txt
 ```
 
 ## 2. Ativação do Ambiente Virtual
@@ -95,9 +94,9 @@ python -m venv env
 ```
 
 **Passo 2: Instalar as Dependências:**
-Com o ambiente virtual ativo, instale todas as dependências listadas em requirements.txt:
+Com o ambiente virtual ativo, instale a biblioteca principal para execução do YOLO:
 ```
-pip install -r requirements.txt
+pip install pip install ultralytics
 ```
 
 **Para desativar o ambiente virtual, use o comando:**
@@ -136,7 +135,6 @@ Visualização da estrutura do *projeto final*:
 │   │   ├── images <br>
 │   │   └── labels <br>
 ├── env <br>
-├── requirements.txt <br>
 ├── main.ipynb  
 ├── inferencia.py <br>
 ├── json_retorno <br>
